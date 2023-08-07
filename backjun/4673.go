@@ -1,6 +1,8 @@
 package backjun
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func d(n int) int {
 	sum := n
